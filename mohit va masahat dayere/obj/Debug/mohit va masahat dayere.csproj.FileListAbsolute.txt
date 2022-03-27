@@ -1,0 +1,10 @@
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\obj\Debug\mohit va masahat dayere.csprojAssemblyReference.cache
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\obj\Debug\mohit_va_masahat_dayere.Properties.Resources.resources
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\obj\Debug\mohit va masahat dayere.csproj.GenerateResource.cache
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\obj\Debug\mohit va masahat dayere.csproj.CoreCompileInputs.cache
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\bin\Debug\mohit va masahat dayere.exe.config
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\bin\Debug\mohit va masahat dayere.exe
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\bin\Debug\mohit va masahat dayere.pdb
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\obj\Debug\mohit va masahat dayere.exe
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\obj\Debug\mohit va masahat dayere.pdb
+C:\Users\sanaypc\source\repos\mohit va masahat dayere\mohit va masahat dayere\obj\Debug\mohit_va_masahat_dayere.mohitmasahat.resources
